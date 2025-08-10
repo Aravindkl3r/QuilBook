@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-The pass key 78789
-=======
-This had code 55666
->>>>>>> arvin
+This key is 8888
 Happiness is everything
 Be the reason for Everyone's smile
 
